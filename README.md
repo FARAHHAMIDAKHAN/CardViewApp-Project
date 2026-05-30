@@ -11,6 +11,7 @@ Mobile App Development Assignment
 ## 👩‍💻 Developed By
 
 **Farah Hamida Khan**
+
 **Registration No: 2023-ag-9526**
 
 ## 📋 Project Overview
