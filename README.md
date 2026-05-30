@@ -4,10 +4,14 @@ An Android application developed for Mobile App Development practice using CardV
 
 ## 📌 
 
-All features and UI elements are for learning and demonstration purposes only.
+## 🎓 Course
 
+Mobile App Development Assignment
 ---
+## 👩‍💻 Developed By
 
+**Farah Hamida Khan**
+**Registration No: 2023-AG-9526**
 ## 📋 Project Overview
 
 MyCardViewApp is a simple Android application that displays different technology courses in a clean CardView-based layout. The purpose of this project is to practice Android UI design, RecyclerView, and Material Design principles.
@@ -63,12 +67,3 @@ This project helped in understanding:
 * Android layout management
 * Basic navigation concepts
 * Material Design usage
-
-## 👩‍💻 Developed By
-
-**Farah Hamida Khan**
-**Registration No: 2023-AG-9526**
-
-## 🎓 Course
-
-Mobile App Development Assignment
