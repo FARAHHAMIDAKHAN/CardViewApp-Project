@@ -11,7 +11,8 @@ Mobile App Development Assignment
 ## 👩‍💻 Developed By
 
 **Farah Hamida Khan**
-**Registration No: 2023-AG-9526**
+**Registration No: 2023-ag-9526**
+
 ## 📋 Project Overview
 
 MyCardViewApp is a simple Android application that displays different technology courses in a clean CardView-based layout. The purpose of this project is to practice Android UI design, RecyclerView, and Material Design principles.
