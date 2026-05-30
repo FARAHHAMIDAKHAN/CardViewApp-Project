@@ -1,53 +1,74 @@
 # 📱 MyCardViewApp
 
-> A beginner-friendly Android app built to practice RecyclerView, CardView, and Material UI.
+An Android application developed for Mobile App Development practice using CardView and RecyclerView.
+
+## 📌 
+
+This project was created for educational and academic purposes only. All features and UI elements are for learning and demonstration purposes only.
 
 ---
 
-## 📖 About
-Displays tech courses in a clean dark card layout. Built as a learning project during Android Development studies.
+## 📋 Project Overview
 
----
+MyCardViewApp is a simple Android application that displays different technology courses in a clean CardView-based layout. The purpose of this project is to practice Android UI design, RecyclerView, and Material Design principles.
 
-## 📚 Courses Available
-| Course | Rating |
-|---|---|
-| Web Development | ⭐ 4.9 |
-| AI & Machine Learning | ⭐ 4.8 |
-| Cyber Security | ⭐ 4.7 |
-| Data Science | ⭐ 4.8 |
+## 💻 Featured Courses in MyCardViewApp
 
----
+### 🌐 Web Development
 
-## ✅ What I Learned
-- RecyclerView with CardView
-- Fragment navigation
-- Dark theme UI design
-- Material Design components
+Learn the basics of website design, frontend, and backend development.
 
----
+### 🤖 Artificial Intelligence
 
-## 🛠️ Tech Stack
-- **Language:** Kotlin
-- **UI:** CardView, RecyclerView, ConstraintLayout
-- **Min SDK:** API 21+
-- **IDE:** Android Studio
+Understand machine learning concepts and intelligent systems.
 
----
+### 🔐 Cyber Security
 
-## ⚙️ Setup
-1. Clone the repository
-2. Open in Android Studio
-3. Sync Gradle
-4. Run on emulator or device
+Explore ethical hacking, network security, and data protection.
 
----
+### 📊 Data Science
 
-## 👩‍💻 Author
-**Maria Zafar**
-Android Development Student
+Work with data analysis, visualization, and predictive modeling.
 
----
+## ✨ Key Features
 
-## 📌 Note
-Enroll button is for UI practice only. No backend functionality implemented.
+* CardView-based UI design
+* RecyclerView implementation
+* Dark themed modern interface
+* Smooth navigation experience
+* Material Design components
+
+## 🛠️ Technologies Used
+
+* **Language:** Kotlin
+* **UI Components:** CardView, RecyclerView, ConstraintLayout
+* **Platform:** Android
+* **Minimum SDK:** API 21+
+* **IDE:** Android Studio
+
+## 📂 Project Structure
+
+The project includes:
+
+* Main Activity
+* XML Layout Files
+* Android Manifest File
+
+## 🎯 Learning Outcomes
+
+This project helped in understanding:
+
+* RecyclerView implementation
+* Card-based UI design
+* Android layout management
+* Basic navigation concepts
+* Material Design usage
+
+## 👩‍💻 Developed By
+
+**Farah Hamida Khan**
+**Registration No: 2023-AG-9526**
+
+## 🎓 Course
+
+Mobile App Development Assignment
