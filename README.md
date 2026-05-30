@@ -4,7 +4,7 @@ An Android application developed for Mobile App Development practice using CardV
 
 ## 📌 
 
-This project was created for educational and academic purposes only. All features and UI elements are for learning and demonstration purposes only.
+All features and UI elements are for learning and demonstration purposes only.
 
 ---
 
